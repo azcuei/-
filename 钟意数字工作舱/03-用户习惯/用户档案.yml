@@ -1,0 +1,151 @@
+# 用户档案
+# 这个文件用于记录用户的基本信息、技能、偏好和习惯，帮助AI更好地理解和协助用户
+
+## 基本信息
+name: "用户"
+nickname: "小亦"
+role: "开发者/学习者"
+location: "中国"
+timezone: "UTC+8"
+language: "简体中文"
+
+## 技能树
+programming_languages:
+  - name: "Python"
+    level: "中级"
+    experience: "2年"
+    projects: ["Web开发", "数据分析", "自动化脚本"]
+
+  - name: "JavaScript"
+    level: "初级"
+    experience: "1年"
+    projects: ["前端开发", "Node.js"]
+
+  - name: "HTML/CSS"
+    level: "中级"
+    experience: "2年"
+    projects: ["网页设计", "响应式布局"]
+
+frameworks:
+  - name: "Django"
+    level: "初级"
+    experience: "6个月"
+    projects: ["Web应用开发"]
+
+  - name: "React"
+    level: "初级"
+    experience: "3个月"
+    projects: ["前端组件开发"]
+
+tools:
+  - name: "Git"
+    level: "中级"
+    experience: "1年"
+    usage: "版本控制"
+
+  - name: "Docker"
+    level: "初级"
+    experience: "3个月"
+    usage: "容器化部署"
+
+  - name: "VS Code"
+    level: "高级"
+    experience: "2年"
+    usage: "代码编辑"
+
+## 学习偏好
+learning_style:
+  - "实践导向"
+  - "项目驱动"
+  - "循序渐进"
+  - "理论结合实践"
+
+preferred_resources:
+  - "官方文档"
+  - "视频教程"
+  - "实践项目"
+  - "社区讨论"
+
+learning_goals:
+  - "提升全栈开发能力"
+  - "学习AI和机器学习"
+  - "掌握DevOps实践"
+  - "提高代码质量"
+
+## 工作习惯
+work_schedule:
+  morning: "09:00-12:00"
+  afternoon: "14:00-18:00"
+  evening: "19:00-21:00"
+
+productivity_tools:
+  - "番茄工作法"
+  - "任务清单"
+  - "时间跟踪"
+  - "定期回顾"
+
+communication_style:
+  - "简洁明了"
+  - "结构化表达"
+  - "注重细节"
+  - "喜欢图表和示例"
+
+## 项目偏好
+project_types:
+  - "Web应用开发"
+  - "自动化工具"
+  - "数据分析项目"
+  - "学习项目"
+
+project_scale:
+  - "中小型项目"
+  - "个人项目"
+  - "学习项目"
+
+technology_preferences:
+  - "Python生态系统"
+  - "现代前端技术"
+  - "云服务"
+  - "开源工具"
+
+## 协作偏好
+collaboration_style:
+  - "异步沟通"
+  - "文档先行"
+  - "代码审查"
+  - "定期同步"
+
+feedback_preferences:
+  - "建设性反馈"
+  - "具体建议"
+  - "最佳实践分享"
+  - "错误预防"
+
+## 禁忌和限制
+avoid:
+  - "过于复杂的配置"
+  - "不稳定的工具"
+  - "缺乏文档的技术"
+  - "过时的技术栈"
+
+preferences:
+  - "稳定可靠的工具"
+  - "清晰的文档"
+  - "活跃的社区"
+  - "现代化的技术"
+
+## 特殊需求
+accessibility:
+  - "中文界面"
+  - "详细的中文注释"
+  - "步骤化的操作指导"
+
+performance:
+  - "响应速度快"
+  - "资源占用合理"
+  - "跨平台兼容"
+
+## 更新记录
+last_updated: "2025-01-07"
+version: "1.0"
+notes: "初始用户档案创建"
